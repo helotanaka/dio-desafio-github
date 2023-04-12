@@ -1,0 +1,11 @@
+dir : mostrar as pastas
+cd / : ir para pastas especificas
+cd .. : voltar
+cd "nome" : entra numa pasta
+cls : limpar a tela
+"tab" auto completa a palavra
+mkdir "nome" : cria pasta
+echo : printa no terminal uma frase
+echo "nome" > "nome".txt : cria um arquivo com o que foi digitado
+del : deleta os arquivos dentro da pasta
+rmdir "nome" /S /Q : deleta a pasta
