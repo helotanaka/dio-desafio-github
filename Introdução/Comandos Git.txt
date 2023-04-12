@@ -11,7 +11,7 @@ ls -a : mostra o arquivo oculto  git
 git status: mostrar o status
 git add . : adicionar no local
 git commit -m :armazena mudanças e descreve
-git push origins main : jogar pra nuvem
+git push origin main : jogar pra nuvem
 
 git add .
 git commit 
