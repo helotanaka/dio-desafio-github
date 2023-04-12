@@ -1,0 +1,9 @@
+Comandos Git
+
+openssl sha1 "nome".txt : mostra o codigo
+echo "nome" | git hash-object : mostra o sha1 dessa string
+ls : listar
+cd / : ir para pastas especificas
+ctrl l : limpa
+
+ls -a : mostra a pasta git 
